@@ -1,0 +1,8 @@
+.env
+.venv/
+__pycache__/
+*.pyc
+state/seen_ads.json
+*.log
+.DS_Store
+.idea/
