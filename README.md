@@ -456,3 +456,7 @@ immer erst deren `robots.txt` und Nutzungsbedingungen prüfen.
 Das Tool ist für den **privaten Eigenbedarf** gedacht. Bitte die
 Anfragefrequenz moderat halten (alle 15–30 Minuten reicht für diesen
 Zweck völlig) und nicht in großem Stil oder kommerziell einsetzen.
+
+## Lizenz
+
+[MIT](LICENSE) – frei verwendbar, veränderbar und weitergebbar, ohne Gewähr.
